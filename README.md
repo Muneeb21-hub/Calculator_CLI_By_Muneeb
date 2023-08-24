@@ -6,7 +6,7 @@ A simple command-line calculator that allows you to perform basic arithmetic ope
 
 Description
 
-      Welcome to the Simple Calculator! This program enables you to perform basic arithmetic operations on two numbers. You can choose between addition, subtraction, multiplication, and division. The program will guide you through entering the numbers and selecting the operation, and then it will display the result.
+  Welcome to the Simple Calculator! This program enables you to perform basic arithmetic operations on two numbers. You can choose between addition, subtraction, multiplication, and division. The program will guide you through entering the numbers and selecting the operation, and then it will display the result.
 
 How to Use
 
@@ -30,13 +30,13 @@ How to Use
 
 Code Overview
 
-     The calculator is implemented using JavaScript and the inquirer library for user input. Here's a brief overview of how the code works:
+  The calculator is implemented using JavaScript and the inquirer library for user input. Here's a brief overview of how the code works:
 
   >  The program prompts the user to enter two numbers and select an arithmetic operation.
   >  It validates the user's input and performs the selected operation.
   >  The result is displayed on the screen.
 
-     Feel free to explore the code and customize it as you see fit. You can extend this calculator by adding more complex operations or error handling.
+  Feel free to explore the code and customize it as you see fit. You can extend this calculator by adding more complex operations or error handling.
 
 Dependencies
 
