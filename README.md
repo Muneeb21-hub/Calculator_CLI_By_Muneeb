@@ -49,4 +49,4 @@ Feel free to explore the code and customize it as you see fit. You can extend th
 
 ## Author
 
-[Muneeb u Rehman]
+Muneeb u Rehman
