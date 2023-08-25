@@ -24,8 +24,9 @@ Welcome to the Simple Calculator! This program enables you to perform basic arit
 
 5. Start the calculator by running the following command:
 
-   ```sh
-  tsc calculator.ts && node calculator.js
+```sh
+tsc calculator.ts && node calculator.js
+
    ```
 
 6. Follow the prompts to enter the two numbers and select the operation you want to perform.
